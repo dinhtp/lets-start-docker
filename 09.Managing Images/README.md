@@ -1,1 +1,10 @@
-# Introduction
+# Managing Images
+
+
+## Objectives
+
+
+## Resources
+
+
+## Exercises
